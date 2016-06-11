@@ -1,14 +1,14 @@
 {
-    "name": "bootpag",
-    "title": "Bootpag",
-    "description": "bootpag - dynamic pagination jQuery plugin. Works well with bootstrap or standalone.",
+    "name": "w3csspag",
+    "title": "w3csspag",
+    "description": "W3csspag - dynamic pagination jQuery plugin. Works well with bootstrap or standalone.",
     "keywords": [
         "pagination",
-        "bootstrap",
+        "w3css",
         "jquery-plugin",
         "ecosystem:jquery"
     ],
-    "version": "1.0.7",
+    "version": "0.0.1",
     "author": {
         "name": "Botmonster",
         "url": "http://blog.botmonster.com"
@@ -19,6 +19,10 @@
             "email": "botmonster@7items.com",
             "url": "http://blog.botmonster.com"
         }
+        {
+            "name": "Leandro",
+            "email": "leandrocsfrb@gmail.com",
+        }
     ],
     "licenses": [
         {
@@ -28,10 +32,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/botmonster/jquery-bootpag.git"
+        "url": "git://github.com/leandrocostasouza/jquery-w3csspag.git"
       },
-    "bugs": "https://github.com/botmonster/jquery-bootpag/issues",
-    "homepage": "http://botmonster.com/jquery-bootpag",
+    "bugs": "https://github.com/leandrocostasouza/jquery-w3csspag/issues",
     "dependencies": {
         "jquery": ">=1.6"
     }
