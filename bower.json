@@ -1,16 +1,15 @@
 {
-  "name": "bootpag",
+  "name": "w3csspag",
   "version": "1.0.7",
-  "description": "bootpag - dynamic pagination jQuery plugin. Works well with bootstrap or standalone.",
-  "homepage": "http://botmonster.com/jquery-bootpag",
-  "main": "lib/jquery.bootpag.min.js",
+  "description": "w3csspag - dynamic pagination jQuery plugin. Works well with W3css or standalone.",
+  "main": "lib/jquery.w3csspag.min.js",
   "ignore": [
     ".jshintrc",
     "**/*.txt"
   ],
   "keywords": [
     "pagination",
-    "bootstrap",
+    "W3css",
     "jquery-plugin",
     "ecosystem:jquery"
   ],
