@@ -1,12 +1,7 @@
-bootpag - dynamic pagination
+w3csspag - dynamic pagination
 ============================
 
-This jQuery plugin helps you create dynamic pagination with [Bootstrap](http://getbootstrap.com/) or in any other html pages.
-
-#Example
-
-Snippet that dynamic loads number of pages.
-More examples can be found on [project homepage](http://botmonster.com/jquery-bootpag/)
+This jQuery plugin helps you create dynamic pagination with [W3.css](http://www.w3schools.com/w3css/) or in any other html pages.
 
 ```html
 <p id="content">Dynamic page content</p>
@@ -14,7 +9,7 @@ More examples can be found on [project homepage](http://botmonster.com/jquery-bo
 ```
 
 ```javascript
-$('#pagination-here').bootpag({
+$('#pagination-here').w3csspag({
     total: 7,          // total pages
     page: 1,            // default page
     maxVisible: 5,     // visible pagination
@@ -22,12 +17,10 @@ $('#pagination-here').bootpag({
 }).on("page", function(event, num){
     $("#content").html("Page " + num); // or some ajax content loading...
     // ... after content load -> change total to 10
-    $(this).bootpag({total: 10, maxVisible: 10});
+    $(this).w3csspag({total: 10, maxVisible: 10});
 });
 
 ```
 #License
 
 Plugin available under MIT license (See LICENSE file)
-
-Copyright (c) 2013-2015 botmonster.com
