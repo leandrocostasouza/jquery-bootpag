@@ -1,6 +1,6 @@
 {
   "name": "w3csspag",
-  "version": "1.0.7",
+  "version": "0.0.1",
   "description": "w3csspag - dynamic pagination jQuery plugin. Works well with W3css or standalone.",
   "main": "lib/jquery.w3csspag.min.js",
   "ignore": [
