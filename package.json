@@ -1,7 +1,7 @@
 {
     "name": "w3csspag",
     "title": "w3csspag",
-    "description": "W3csspag - dynamic pagination jQuery plugin. Works well with bootstrap or standalone.",
+    "description": "W3csspag - dynamic pagination jQuery plugin. Works well with W3css or standalone.",
     "keywords": [
         "pagination",
         "w3css",
