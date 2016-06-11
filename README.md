@@ -1,7 +1,7 @@
 w3csspag - dynamic pagination
 ============================
 
-This jQuery plugin helps you create dynamic pagination with [W3.css](http://www.w3schools.com/w3css/) or in any other html pages.
+This jQuery plugin helps you create dynamic pagination with [W3css](http://www.w3schools.com/w3css/) or in any other html pages.
 
 ```html
 <p id="content">Dynamic page content</p>
